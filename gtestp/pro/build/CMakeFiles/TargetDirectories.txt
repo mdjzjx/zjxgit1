@@ -1,0 +1,3 @@
+/media/B/gitlab/zjxgit1/gtestp/pro/build/CMakeFiles/rebuild_cache.dir
+/media/B/gitlab/zjxgit1/gtestp/pro/build/CMakeFiles/edit_cache.dir
+/media/B/gitlab/zjxgit1/gtestp/pro/build/CMakeFiles/app.dir
